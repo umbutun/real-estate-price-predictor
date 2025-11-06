@@ -1,6 +1,7 @@
 # 🏠 Real Estate Price Predictor
 
-*A practical, end-to-end machine learning project predicting housing prices — built while working through “Hands-On Machine Learning” by Aurélien Géron.*
+*A practical, end-to-end machine learning project predicting housing prices.
+This project corresponds to **Chapter 2 — End-to-End Machine Learning Project** from the [Hands-On Machine Learning Practice](https://github.com/umbutun/hands-on-machine-learning-practice) repository — built while working through “Hands-On Machine Learning” by Aurélien Géron.*
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -31,6 +32,10 @@ The notebook demonstrates:
 
 - ☁️ **Open in Google Colab:**  
   <a href="https://colab.research.google.com/github/umbutun/real-estate-price-predictor/blob/main/notebook/real_estate_price_predictor.ipynb" target="_blank">Open in Colab</a>
+
+- 📚 **Back to hands-on-machine-learning-practice collection:**<br>
+  [⬅ Back to Main Collection](https://github.com/umbutun/hands-on-machine-learning-practice)
+  
 
 ---
 
