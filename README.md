@@ -41,10 +41,29 @@ The notebook demonstrates:
 
 ## 📸 Preview
 
-*(Replace `assets/preview.png` with your own visual for better presentation.)*
+<p align="left">
+  <img src="https://github.com/umbutun/hands-on-machine-learning-practice/blob/main/assets/charts/chapter_02_california_housing_prices_plot.png" width="75%" alt="California Housing Prices"/>
+</p>
 
-![Project Preview](./assets/preview.png)  
-*Figure: Example — feature correlations and model prediction vs actual plot.*
+*Figure 1: Distribution of Median Housing Prices and Population on California Map*
+
+<p align="left">
+  <img src="https://github.com/umbutun/hands-on-machine-learning-practice/blob/main/assets/charts/chapter_02_scatter_matrix_plot.png" width="75%" alt="Scatter Matrix Plot"/>
+</p>
+
+*Figure 2: Analyzing Correlation of Numeric Features With Scatter Matrix Plot*
+
+<p align="left">
+  <img src="https://github.com/umbutun/hands-on-machine-learning-practice/blob/main/assets/charts/chapter_02_district_cluster_plot.png" width="75%" alt="District Cluster Plot"/>
+</p>
+
+*Figure 3: Using K-Means Clustering to Find Cluster Centers and Measuring Geographic Similarity to Cluster Centroids*
+
+<p align="left">
+  <img src="https://github.com/umbutun/hands-on-machine-learning-practice/blob/main/assets/charts/chapter_02_age_similarity_plot.png" width="75%" alt="Age Similarity Plot"/>
+</p>
+
+*Figure 4: Gaussian RBF Measuring the Similarity Between the Housing Median Age and 35*
 
 ---
 
